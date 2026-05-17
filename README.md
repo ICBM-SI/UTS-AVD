@@ -25,3 +25,33 @@ Bagian ini merupakan tahap membandingkan kolom Gender dan Gaming Hours.
 Tujuan: Mengetahui Gender mana yang memiliki score Gaming Hours terbanyak.
 
 Visualisasi: Bar Chart.
+
+<img width="868" height="887" alt="image" src="https://github.com/user-attachments/assets/1f9ba409-c9ff-47fa-be53-8aa0da820dc8" />
+
+# COMPOSITION
+
+Aktivitas: Melihat proporsi Gaming Genre berdasarkan Sleep Hours.
+
+Tujuan: Mengetahui genre game yang mempengaruhi waktu tidur pelajar.
+
+Visualisasi: Pie Chart.
+
+<img width="667" height="690" alt="image" src="https://github.com/user-attachments/assets/1d7f72d4-b800-4443-8ebb-90fadbc86270" />
+
+# DISTRIBUTION
+
+Aktivitas: Menganalisis frekuensi penyebaran tingkat kecanduan game dalam bentuk persentase.
+
+Tujuan: Melihat distribusi tingkat kecanduan game seorang pelajar.
+
+Visualisasi: Histogram.
+
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/a051418f-4f56-4a2b-8ea1-c245c7903b62" />
+
+# RELATIONSHIP
+
+Aktivitas: Menganalisis korelasi data antara (study_hours) dan (grades)
+
+Tujuan: Mengetahui apakah waktu jam belajar memengaruhi nilai seorang pelajar. Visualisasi: Scatter Plot
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/dcddf26e-a937-4fd9-a34a-5722c8eb6225" />
